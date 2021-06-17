@@ -1,0 +1,1 @@
+This is Slime5’s first git project!
